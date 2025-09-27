@@ -1,5 +1,5 @@
 int main() {
   cout << "Hello" << endl;
-  cout << "Bye" << endl;
+  cout << "GoodBye" << endl;
   return 0;
 }
