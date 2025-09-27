@@ -1,0 +1,5 @@
+---
+BasedOnStyle: LLVM
+KeepEmptyLinesAtTheStartOfBlocks: false
+MaxEmptyLinesToKeep: 0
+SeparateDefinitionBlocks: Never
